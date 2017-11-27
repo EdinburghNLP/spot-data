@@ -1,30 +1,54 @@
 # SPOT: Sentiment Polarity Annotations Dataset
 
 The SPOT dataset contains 197 reviews originating from the Yelp'13 [1] and IMDB [2] collections,
-annotated with segment-level polarity labels. Annotations have been gathered on 2 levels of 
-granulatiry:
+annotated with discrete segment-level polarity labels (positive/neutral/negative). Annotations 
+have been gathered on 2 levels of granulatiry:
 
  - Sentences
  - Elementary Discourse Units (EDUs)
 
-This dataset is intended to aid sentiment analysis research and, in particular, the evaluation of
-methods that attempt to perform finer-grained sentiment analysis.
+This dataset is intended to aid sentiment analysis research and, in particular, the evaluation 
+of methods that attempt to perform finer-grained sentiment analysis.
 
-Details about the creation of this dataset can be found in:
-
+Statistics and details about the dataset's creation can be found in:
 > Stefanos Angelidis, Mirella Lapata. 2017.
 > **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,
 > _To appear in Transactions of the Association for Computational Linguistics (TACL)_
 
 If you use this data in your research, please cite the above paper.
 
-## Format details
+## Details
 
+The dataset is split into 4 subsets based on the origin (Yelp'13 / IMDB) and segmentation 
+policy (sentences/EDUs) used, resulting in the following 4 files:
+ - spot-yelp-sent.txt
+ - spot-yelp-edus.txt
+ - spot-imdb-sent.txt
+ - spot-imdb-edus.txt
 
+Each file lists all documents and their annotations using the following format:
 
+1. Each document begins with a line containing its document-level sentiment label (0 to 5 for 
+Yelp'13, 0 to 9 for IMDB), followed by exactly 1 space character, and a document id, unique for 
+the particular collection.
+2. The individually annotated segments are listed after that, one segment per line. Each line
+begins with a single character that indicated the segment-level sentiment label (+/0/-), 
+followed by a single <tab>, and the segment itself.
+3. After all the segments are listed, a single empty line marks the end of the document.
 
+### Example:
 
-
+```
+3 0318862
+-	This location is in a scary neighborhood .
++	But , the inside was renovated with mcd 's new interior design .
++	So it looks nice and well kept up thus far .
+-	The cashier i got tried to charge me for using my living social deal .
+-	He said it was just $ 1 off , when in fact the ls deal was prepaid for already .
++	I told him to ask his manager and she would correct him , which she did .
++	Fries were good .
+0	I likely will return to this location , but maybe not at night .
+```
 
 ## References
 
