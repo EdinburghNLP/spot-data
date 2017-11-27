@@ -5,15 +5,18 @@ annotated with discrete segment-level polarity labels (positive/neutral/negative
 have been gathered on 2 levels of granulatiry:
 
  - Sentences
- - Elementary Discourse Units (EDUs)
+ - Elementary Discourse Units (EDUs), i.e. sub-sentence clauses produced by a state-of-the-art
+RST parser [3]
 
 This dataset is intended to aid sentiment analysis research and, in particular, the evaluation 
-of methods that attempt to perform finer-grained sentiment analysis.
+of methods that attempt to 
 
-Statistics and details about the dataset's creation can be found in:
-> Stefanos Angelidis, Mirella Lapata. 2017.
-> **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,
-> _To appear in Transactions of the Association for Computational Linguistics (TACL)_
+Statistics and details about the dataset's creation can be found our TACL paper:
+
+Stefanos Angelidis, Mirella Lapata. 2017.
+**Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,
+_To appear in Transactions of the Association for Computational Linguistics (TACL)_ <br/>
+[ insert arXiv url here ]
 
 If you use this data in your research, please cite the above paper.
 
@@ -21,10 +24,10 @@ If you use this data in your research, please cite the above paper.
 
 The dataset is split into 4 subsets based on the origin (Yelp'13 / IMDB) and segmentation 
 policy (sentences/EDUs) used, resulting in the following 4 files:
- - spot-yelp-sent.txt
- - spot-yelp-edus.txt
- - spot-imdb-sent.txt
- - spot-imdb-edus.txt
+ - `spot-yelp-sent.txt`
+ - `spot-yelp-edus.txt`
+ - `spot-imdb-sent.txt`
+ - `spot-imdb-edus.txt`
 
 Each file lists all documents and their annotations using the following format:
 
@@ -48,6 +51,7 @@ followed by a single <tab>, and the segment itself.
 +	I told him to ask his manager and she would correct him , which she did .
 +	Fries were good .
 0	I likely will return to this location , but maybe not at night .
+[ empty line ]
 ```
 
 ## References
@@ -59,3 +63,7 @@ _In Proceedings of the 2015 Conference on Empirical Methods in Natural Language 
 [2] Qiming Diao, Minghui Qiu, Chao-Yuan Wu, Alexander J. Smola, Jing Jiang, and Chong Wang. 2014.
 **Jointly modeling aspects, ratings and sentiments for movie recommendation (JMARS).**
 _In Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pages 193–202, New York, NY, USA._
+
+[3] Wei Vanessa Feng and Graeme Hirst. 2012. 
+**Text-level discourse parsing with rich linguistic features.**
+_In Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 60–68, Jeju Island, Korea._
