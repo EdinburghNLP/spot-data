@@ -11,14 +11,12 @@ RST parser [3]
 This dataset is intended to aid sentiment analysis research and, in particular, the evaluation 
 of methods that attempt to predict sentiment on a finer-grained, segment-level basis.
 
-Statistics and details about the dataset's creation can be found in our TACL paper:
+Statistics and details about the dataset's creation can be found in our paper:
 
 > **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,<br/>
 > Stefanos Angelidis, Mirella Lapata. 2017. <br/>
 > _To appear in Transactions of the Association for Computational Linguistics (TACL)_.<br/>
-> [pdf](http://homepages.inf.ed.ac.uk/s1258635/milnet-sentiment.pdf)
-
-If you use this data in your research, please cite the above.
+> [ [pdf](http://homepages.inf.ed.ac.uk/s1258635/milnet-sentiment.pdf) ]
 
 The models proposed in the paper are trained using document-level supervision only, on the 
 original Yelp'13 and IMDB collections. Preprocessed versions of the 2 datasets, including both 
@@ -26,12 +24,14 @@ sentence- and EDU-split variants, are available [here](#).
 
 For questions or comments, please email `s.angelidis [at] ed.ac.uk`
 
+If you use this dataset in your research, please cite the above paper.
+
 ### Details
 
 The SPOT dataset is split into 4 subsets based on the origin (Yelp'13 / IMDB) and segmentation 
 policy (sentences / EDUs) used, resulting in the following 4 files:
- - `spot-yelp-sent.txt`
- - `spot-yelp-edus.txt`
+ - `spot-yelp13-sent.txt`
+ - `spot-yelp13-edus.txt`
  - `spot-imdb-sent.txt`
  - `spot-imdb-edus.txt`
 
@@ -46,7 +46,6 @@ followed by a single <tab>, and the segment itself.
 3. After all the segments are listed, a single empty line marks the end of the document.
 
 #### Example:
-
 ```
 3 0318862
 -	This location is in a scary neighborhood .
