@@ -21,7 +21,7 @@ Statistics and details about the dataset's creation can be found in our paper:
 The models proposed in the paper are trained using _document-level supervision only_, on the 
 **original** Yelp'13 and IMDB collections. Preprocessed versions of the 2 original datasets, 
 including both sentence- and EDU-split variants, are available 
-[**here**](https://drive.google.com/drive/folders/1T-6_BWax1l4diZy9-ksehHOC9S7FOqeN?usp=sharing).
+[**here**](https://drive.google.com/open?id=1T-6_BWax1l4diZy9-ksehHOC9S7FOqeN).
 
 For questions or comments, please email `s.angelidis [at] ed.ac.uk`
 
