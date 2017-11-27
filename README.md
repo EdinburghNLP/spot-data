@@ -12,9 +12,9 @@ methods that attempt to perform finer-grained sentiment analysis.
 
 Details about the creation of this dataset can be found in:
 
-Stefanos Angelidis, Mirella Lapata. 2017.
-**Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,
-_To appear in Transactions of the Association for Computational Linguistics (TACL)_
+> Stefanos Angelidis, Mirella Lapata. 2017.
+> **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,
+> _To appear in Transactions of the Association for Computational Linguistics (TACL)_
 
 If you use this data in your research, please cite the above paper.
 
