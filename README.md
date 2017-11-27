@@ -1,7 +1,7 @@
 # SPOT: Sentiment Polarity Annotations Dataset
 
-The SPOT dataset contains 197 reviews originating from the Yelp'13 [1] and IMDB [2] collections,
-annotated with discrete segment-level polarity labels (positive/neutral/negative). Annotations 
+The SPOT dataset contains 197 reviews originating from the Yelp'13 and IMDB collections ([1][2]),
+annotated with segment-level polarity labels (positive/neutral/negative). Annotations 
 have been gathered on 2 levels of granulatiry:
 
  - Sentences
@@ -9,7 +9,7 @@ have been gathered on 2 levels of granulatiry:
 RST parser [3]
 
 This dataset is intended to aid sentiment analysis research and, in particular, the evaluation 
-of methods that attempt to predict sentiment on a finer-grained, segment-level basis.
+of methods that attempt to predict sentiment on a fine-grained, segment-level basis.
 
 Statistics and details about the dataset's creation can be found in our paper:
 
@@ -18,9 +18,9 @@ Statistics and details about the dataset's creation can be found in our paper:
 > _To appear in Transactions of the Association for Computational Linguistics (TACL)_.<br/>
 > [ [pdf](http://homepages.inf.ed.ac.uk/s1258635/milnet-sentiment.pdf) ]
 
-The models proposed in the paper are trained using document-level supervision only, on the 
-original Yelp'13 and IMDB collections. Preprocessed versions of the 2 datasets, including both 
-sentence- and EDU-split variants, are available 
+The models proposed in the paper are trained using _document-level supervision only_, on the 
+**original** Yelp'13 and IMDB collections. Preprocessed versions of the 2 original datasets, 
+including both sentence- and EDU-split variants, are available 
 [**here**](https://drive.google.com/drive/folders/1T-6_BWax1l4diZy9-ksehHOC9S7FOqeN?usp=sharing).
 
 For questions or comments, please email `s.angelidis [at] ed.ac.uk`
