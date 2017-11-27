@@ -20,7 +20,8 @@ Statistics and details about the dataset's creation can be found in our paper:
 
 The models proposed in the paper are trained using document-level supervision only, on the 
 original Yelp'13 and IMDB collections. Preprocessed versions of the 2 datasets, including both 
-sentence- and EDU-split variants, are available [here](#).
+sentence- and EDU-split variants, are available 
+[**here**](https://drive.google.com/drive/folders/1T-6_BWax1l4diZy9-ksehHOC9S7FOqeN?usp=sharing).
 
 For questions or comments, please email `s.angelidis [at] ed.ac.uk`
 
@@ -42,7 +43,7 @@ Yelp'13, 0 to 9 for IMDB), followed by exactly 1 space character, and a document
 the particular collection.
 2. The individually annotated segments are listed after that, one segment per line. Each line
 begins with a single character that indicates the segment-level sentiment label (+/0/-), 
-followed by a single <tab>, and the segment itself.
+followed by a single `<tab>`, and the segment itself.
 3. After all the segments are listed, a single empty line marks the end of the document.
 
 #### Example:
