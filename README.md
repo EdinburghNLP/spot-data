@@ -14,9 +14,9 @@ of methods that attempt to predict sentiment on a finer-grained, segment-level b
 Statistics and details about the dataset's creation can be found in our TACL paper:
 
 > **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,<br/>
-> Stefanos Angelidis, Mirella Lapata. 2017. 
-> _To appear in Transactions of the Association for Computational Linguistics (TACL)_ <br/>
-> [link to paper](http://homepages.inf.ed.ac.uk/s1258635/milnet-sentiment.pdf)
+> Stefanos Angelidis, Mirella Lapata. 2017. <br/>
+> _To appear in Transactions of the Association for Computational Linguistics (TACL)_.<br/>
+> [pdf](http://homepages.inf.ed.ac.uk/s1258635/milnet-sentiment.pdf)
 
 If you use this data in your research, please cite the above.
 
@@ -26,10 +26,10 @@ sentence- and EDU-split variants, are available [here](#).
 
 For questions or comments, please email `s.angelidis [at] ed.ac.uk`
 
-## Details
+### Details
 
-The dataset is split into 4 subsets based on the origin (Yelp'13 / IMDB) and segmentation 
-policy (sentences/EDUs) used, resulting in the following 4 files:
+The SPOT dataset is split into 4 subsets based on the origin (Yelp'13 / IMDB) and segmentation 
+policy (sentences / EDUs) used, resulting in the following 4 files:
  - `spot-yelp-sent.txt`
  - `spot-yelp-edus.txt`
  - `spot-imdb-sent.txt`
@@ -45,7 +45,7 @@ begins with a single character that indicates the segment-level sentiment label 
 followed by a single <tab>, and the segment itself.
 3. After all the segments are listed, a single empty line marks the end of the document.
 
-### Example:
+#### Example:
 
 ```
 3 0318862
