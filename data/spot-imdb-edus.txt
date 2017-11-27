@@ -29,7 +29,7 @@
 -	Just like this film . <s>
 -	One star (
 -	only because imdb wo n't let me rate
--	it zero ) . 
+-	it zero ) . <s>
 
 0 0331210
 +	This show was once one of the greatest nicktoons
@@ -49,7 +49,7 @@
 -	just so they can make a quick buck . <s>
 0	If you 're going to judge this show ,
 0	judge it by older seasons 1 through 3 , not the current episodes ,
-+	because that greatness ca n't be compared to what spongebob is now . 
++	because that greatness ca n't be compared to what spongebob is now . <s>
 
 0 0332820
 -	Finally hitting the lowest level of direct to video hell ,
@@ -81,7 +81,7 @@
 -	and second , in the climatic fight , he turns into kind of a big wimp . <s>
 +	The best thing
 0	to be said about this movie ? <s>
--	It was the last one in the series . 
+-	It was the last one in the series . <s>
 
 0 0333781
 0	As i saw this movie with the original indian soundtrack
@@ -102,7 +102,7 @@
 -	Probably the worst thing of the movie was ,
 0	that i heard
 +	it would be one of the better indian movies . <s>
--	Poor people . 
+-	Poor people . <s>
 
 0 0335013
 -	I do n't know
@@ -131,7 +131,7 @@
 0	of what it thinks
 -	the audience wants to see , clearly undermines the bottom line of the moviegoers intelligence . <s>
 +	And that speaks volumes
-0	about what passes for entertainment these days . 
+0	about what passes for entertainment these days . <s>
 
 0 0340349
 -	Juno is probably the most over-rated film
@@ -174,7 +174,7 @@
 -	Which it was n't ,
 -	that was as dull and unrealistic as the rest of the film . <s>
 0	I think apart from when the film ended
-+	the best part about it was the hamburger phone . 
++	the best part about it was the hamburger phone . <s>
 
 0 0340944
 0	I tend to watch a lot of creature features ,
@@ -203,7 +203,7 @@
 -	which is n't even redeemed by the mighty lance henriksen . <s>
 -	It makes me sad
 -	that such a legend appears in this kind of dreck . <s>
--	Avoid it like the ebola virus 
+-	Avoid it like the ebola virus <s>
 
 0 0342284
 0	" religulous "
@@ -226,7 +226,7 @@
 -	that religious people have the right
 0	to believe . <s>
 -	You can disagree with religion ,
--	but you have no right to offend it . 1 out of 10 . 
+-	but you have no right to offend it . 1 out of 10 . <s>
 
 0 0343013
 +	This movie is for you
@@ -264,7 +264,7 @@
 -	do n't bother . <s>
 -	It 's really awful and quite disgusting . <s>
 +	Yes , there is comedy , some of it quite good ,
--	but that 's like a tiny flower in a latrine . 
+-	but that 's like a tiny flower in a latrine . <s>
 
 0 0343020
 0	In 2006 , i went to see a movie called " borat "
@@ -293,7 +293,7 @@
 0	to hang the " gags " on . <s>
 -	I was left supremely disappointed ,
 -	and wo n't be recommending " bruno " to anyone . <s>
--	Skip it ! 
+-	Skip it ! <s>
 
 1 0317588
 -	A bad , low budget b western by routine director budd
@@ -312,7 +312,7 @@
 +	Marvin pretty much acts everybody off the screen , particularly scott . <s>
 -	If only this film had starred john wayne in scott 's role then
 -	the film might have worked . <s>
--	As it is it was too miscast and boring . 
+-	As it is it was too miscast and boring . <s>
 
 1 0318966
 0	I guess
@@ -336,7 +336,7 @@
 0	so he ca n't stay . <s>
 -	This is a must to avoid . <s>
 0	By the way , are those helmets
-0	they are using for the brain transfer ? 
+0	they are using for the brain transfer ? <s>
 
 1 0333929
 -	I had no particular desire
@@ -359,7 +359,7 @@
 0	it would be . <s>
 -	Still , it 's probably the worst film
 0	i 've seen for some time , bar ' bullet proof monk . <s>
-0	' 2/10 
+0	' 2/10 <s>
 
 1 0338137
 0	Sure , i laughed with american pie i , a small chuckle with american pie ii . <s>
@@ -384,7 +384,7 @@
 -	the end of the world is near . <s>
 0	Nay , wish i 'd checked imdb
 0	before watching this . <s>
--	Do n't get the high ratings either . 
+-	Do n't get the high ratings either . <s>
 
 1 0339094
 0	I saw this movie
@@ -406,7 +406,7 @@
 0	why that black boss of crockett and tubbs was so adamant about being the leader at the end . <s>
 +	The speed boats were fun to watch
 0	but there is no way
--	that these to idiots are better than riggs and of lethal weapon . 
+-	that these to idiots are better than riggs and of lethal weapon . <s>
 
 1 0340950
 0	Oh my . <s>
@@ -431,7 +431,7 @@
 -	and certainly is one of the worst christmas movies
 0	ever invented . <s>
 -	Do n't watch it ,
-0	whatever you do . 
+0	whatever you do . <s>
 
 1 0342138
 0	Okay so i watched this film last night
@@ -463,7 +463,7 @@
 -	I was truly disappointed
 +	but i would consider
 +	watching another one
-+	if they re-make it better . 
++	if they re-make it better . <s>
 
 1 0344415
 0	I just got through watching the pilot for this show
@@ -504,7 +504,7 @@
 -	they are sadly confused . <s>
 -	This show belongs on a different channel ,
 -	but it wo n't last anyway
--	so it 's not worth complaining about . 
+-	so it 's not worth complaining about . <s>
 
 2 0325130
 -	Maybe i did n't got the idea behind this remake of the 1958 classic
@@ -533,7 +533,7 @@
 0	but
 0	if you remake them the same way as then then i leave it
 0	as it is . <s>
--	Gore 0/5 nudity 0/5 effects 1/5 story 2/5 comedy 1/5 
+-	Gore 0/5 nudity 0/5 effects 1/5 story 2/5 comedy 1/5 <s>
 
 2 0325955
 -	There are worse things
@@ -553,7 +553,7 @@
 0	I bet
 -	even the catering was bad on this film . <s>
 0	Personally , i am a big fan of pirate movies ,
--	but these days it is hard to find any good ones . 
+-	but these days it is hard to find any good ones . <s>
 
 2 0334671
 0	I must confess i 'd
@@ -579,7 +579,7 @@
 0	but i wanted him to get busted . <s>
 0	Plus he did get laid a lot . <s>
 0	A weird , offbeat tale of redemption perhaps ? <s>
--	I missed the point . 
+-	I missed the point . <s>
 
 2 0346387
 -	So nothing about the surgery is realistic
@@ -605,7 +605,7 @@
 -	that is gross but original
 -	and thought
 -	it would be great to just rely the whole movie around that one small idea . <s>
--	A waste of time for the most part for this one . 3/10 
+-	A waste of time for the most part for this one . 3/10 <s>
 
 2 0347421
 +	I love
@@ -652,7 +652,7 @@
 -	this movie ever had the potential
 -	to be great ,
 -	but it did n't deserve to be so badly done at the end
--	that it is literally painful to watch . 
+-	that it is literally painful to watch . <s>
 
 3 0314521
 0	The film begins at a us army camp just
@@ -685,7 +685,7 @@
 -	after watching this listless film . <s>
 0	Try dr. pyckle and mr. pryde
 +	-- it 's a very good stan laurel film
-+	and is actually better than most laurel and hardy films . 
++	and is actually better than most laurel and hardy films . <s>
 
 3 0320925
 0	By sheer chance i found a movie
@@ -708,7 +708,7 @@
 +	he outlived this one . <s>
 0	Conclusion ,
 -	there is hope for any good actor ,
--	even after a bad start , just carry on . 
+-	even after a bad start , just carry on . <s>
 
 3 0323754
 -	Not a very good horror offering . <s>
@@ -732,7 +732,7 @@
 -	And , oh , yeah ,
 -	the evil cat thing looked about as real as the caddyshack gopher . <s>
 -	I can only recommend this to fans of pacula or . <s>
--	Grade : f 
+-	Grade : f <s>
 
 3 0328735
 -	Disappointing . <s>
@@ -759,7 +759,7 @@
 -	it all begins to sounds a little desperate . <s>
 0	Less demanding kids might enjoy this movie ,
 0	but there are lots of others
-0	that both you and your kids would enjoy much more . 
+0	that both you and your kids would enjoy much more . <s>
 
 3 0329337
 0	No offense or anything but i 'm probably such a big star of the legendary audrey hepburn ,
@@ -788,7 +788,7 @@
 0	if i made
 0	it i would get sean hepburn ferrer
 0	to speak in it at the beginning . <s>
-0	But over all it was ok . 
+0	But over all it was ok . <s>
 
 3 0339282
 +	I found this movie a cute sketch of medieval life . <s>
@@ -806,7 +806,7 @@
 -	Funny but doubtful . <s>
 0	I do
 0	suggest
--	the scriptwriters look for a better piece of historical and cultural advice . 
+-	the scriptwriters look for a better piece of historical and cultural advice . <s>
 
 3 0340690
 0	Four people hold up a bank ,
@@ -839,7 +839,7 @@
 0	how this guy continues to get work . <s>
 +	Living & dying has a great opening and an interesting ending ,
 -	but unfortunately the middle is just about as boring and predictable
-0	as a movie can get . 
+0	as a movie can get . <s>
 
 3 0343342
 +	After 500 days of summer i had a very high opinion of marc webb . <s>
@@ -862,7 +862,7 @@
 -	Please avoid this film . <s>
 -	It is such a waste of time , and money . <s>
 -	I ca n't wait for the sequel ,
--	to avoid it . 
+-	to avoid it . <s>
 
 4 0316235
 -	Well , they do n't all start out as geniuses . <s>
@@ -879,7 +879,7 @@
 -	It really is a boring little film and not even really worth seeing . <s>
 +	Gives a good performance ,
 +	and there are a couple of other decent actors ,
--	but that 's about it . 
+-	but that 's about it . <s>
 
 4 0321598
 -	To expect too much quality out of this is pointless . <s>
@@ -904,7 +904,7 @@
 +	creating some real suspense . <s>
 0	As 1980 's slasher flicks go ,
 +	this one is n't bad . <s>
-0	At the same time , it 's not that much better than usual . 
+0	At the same time , it 's not that much better than usual . <s>
 
 4 0325932
 -	This movie never goes anywhere . <s>
@@ -923,7 +923,7 @@
 -	that are not funny . <s>
 0	I really wanted to like this movie ,
 -	but it was barely ok . <s>
--	I give this movie barely ** out of **** 
+-	I give this movie barely ** out of **** <s>
 
 4 0326183
 0	This film is about 3 young men of german descent growing up in the mid west of america . <s>
@@ -941,7 +941,7 @@
 +	thought provoking . <s>
 +	It is worth a watch
 0	if you have nothing to do ,
--	but do n't expect it to be too entertaining . 
+-	but do n't expect it to be too entertaining . <s>
 
 4 0339534
 0	When i first heard of sunshine ,
@@ -963,7 +963,7 @@
 0	Maybe there is an editors
 0	cut out there
 +	that adds 30 minutes of footage to make this a decent movie ,
-0	but as it stands 5/10 . 
+0	but as it stands 5/10 . <s>
 
 4 0339779
 -	I was totally not expecting anything out of this david dhawan flick ,
@@ -992,7 +992,7 @@
 0	I would recommend to definitely wait till the dvd is released
 0	for watching the film . <s>
 +	It might be just a little more enjoyable . <s>
--	It is probably not the worst david dhawan flick , but a bad one . 
+-	It is probably not the worst david dhawan flick , but a bad one . <s>
 
 4 0342615
 +	Queen latifah is the reason
@@ -1020,7 +1020,7 @@
 0	unless you really have to see the queen ) . <s>
 -	Please do n't spoil your perfect holidays
 -	by going out of your way
--	to see this movie . 
+-	to see this movie . <s>
 
 4 0342904
 0	" listen sheriff ,
@@ -1052,7 +1052,7 @@
 -	I have seen much worse
 -	and you could do worse then this movie . <s>
 +	Overall , a very ok movie that is nothing special or new . <s>
--	I give it a c + . 
+-	I give it a c + . <s>
 
 4 0344514
 -	All most from the very beginning one begins to notice
@@ -1084,7 +1084,7 @@
 -	not so in this movie , the characters could barely pull down their own scam lines . <s>
 +	Easy to watch
 -	but it runs to long
--	if you want satisfaction . 
+-	if you want satisfaction . <s>
 
 4 0345996
 0	At the end of the day , i found
@@ -1131,7 +1131,7 @@
 0	If they think
 -	that 's bad ,
 -	wait until they get a load of this sucker . **
--	out of **** 
+-	out of **** <s>
 
 4 0346472
 -	The major plot twists in this movie , as well as most of the plot , is standard fare in science fiction
@@ -1160,7 +1160,7 @@
 0	Considering the $ 120 million budget ,
 0	i 'd 've thought
 -	they could have done a better job . <s>
-0	But i suppose james cameron , as well as professional science fiction authors , have raised the bar . 
+0	But i suppose james cameron , as well as professional science fiction authors , have raised the bar . <s>
 
 5 0316558
 0	This is a b-movie
@@ -1203,7 +1203,7 @@
 0	It seemed
 -	as if they were simply running out of film
 -	and quickly slapped a contrived ending on the film in order
-0	to keep it to the trim 60 running time ! 
+0	to keep it to the trim 60 running time ! <s>
 
 5 0321682
 0	There are people
@@ -1223,7 +1223,7 @@
 +	Besides a sci-fi aspect , there was also plenty of comedy
 0	as they actually had people
 +	who were supposedly doctors from a university
-0	looking for aliens . 
+0	looking for aliens . <s>
 
 5 0324752
 +	I 've always liked michael keaton ,
@@ -1252,7 +1252,7 @@
 0	This easily could have
 0	been made for television were it not for keaton and russo
 0	being attached to it . <s>
-+	It 's a decent rental . 
++	It 's a decent rental . <s>
 
 5 0328983
 +	This is luc besson 's grand take on the heroine joan of arc . <s>
@@ -1272,7 +1272,7 @@
 0	as she gets captured and tried . <s>
 -	It may be better
 0	to climax the film with the big win in orl ans . <s>
-0	Keep the slower parts as a postscript . 
+0	Keep the slower parts as a postscript . <s>
 
 5 0333054
 0	The general message of this video is
@@ -1293,7 +1293,7 @@
 +	the section is more interesting . <s>
 0	I found this video
 -	to be quite tedious despite some passing pleasures along the way . <s>
-0	No doubt it would be of greater interest to dancers and ballet fans . 
+0	No doubt it would be of greater interest to dancers and ballet fans . <s>
 
 5 0333302
 +	Action packed thriller
@@ -1315,7 +1315,7 @@
 -	I just wish
 -	the film would have shown cohesiveness ,
 -	other than becoming a shooting gallery in the
--	never ending . 
+-	never ending . <s>
 
 5 0334129
 +	The reason i like this movie is not the fact
@@ -1345,7 +1345,7 @@
 0	And was it worth the personal sacrifice of so much ? <s>
 0	I do n't know
 0	if this is what the director or writer was aiming for ,
-+	but this is what i found most interesting . 
++	but this is what i found most interesting . <s>
 
 5 0336712
 -	The first half hour of the bourne supremacy is universally annoying . <s>
@@ -1362,7 +1362,7 @@
 -	But , you inevitably have to sit through the beginning . <s>
 -	As a viewer , your best bet is to skip the first half hour altogether . <s>
 0	You can infer everything
--	you miss in your mind . 
+-	you miss in your mind . <s>
 
 5 0339736
 0	This adaption of a stephen king novel finds john cusack as a writer
@@ -1391,7 +1391,7 @@
 -	is what you like than this film
 +	will be to your liking . <s>
 +	Stephen king fans provide a loyal fan base
-+	so i expect the film to do well . 
++	so i expect the film to do well . <s>
 
 5 0340759
 0	This movie is a remake of " the omega man " rather than an adaption of the book " i am legend " . <s>
@@ -1413,7 +1413,7 @@
 -	if hollywood ca n't make a good movie out of it ,
 -	why not leave matheson 's novel alone already ? <s>
 -	Seriously , three failed attempts
-0	at adapting it appropriately are enough . 
+0	at adapting it appropriately are enough . <s>
 
 5 0346889
 0	This is one of those flicks
@@ -1441,7 +1441,7 @@
 0	where it 's a little bit gory . <s>
 0	Further on the gore is left out . <s>
 +	Still by clocking in at 61 minutes it 's surely on to have in your zombie collection . <s>
-+	A really nice effort by the director and his crew . 
++	A really nice effort by the director and his crew . <s>
 
 6 0321034
 0	The deer hunter played on cable this weekend ,
@@ -1460,7 +1460,7 @@
 -	You do n't see these men " at war , "
 -	you see them in a made up game
 -	seemingly designed to emphasize the inhumanity of " the enemy " ( " the other " ) . <s>
--	It 's hard to tolerate such a one-sided view . 
+-	It 's hard to tolerate such a one-sided view . <s>
 
 6 0321439
 0	" la bimba di satana " by mario bianchi is actually a remake of andrea bianchi 's supremely sleazy " malabimba " . <s>
@@ -1478,7 +1478,7 @@
 0	She is apparently possessed by her dead mother , or her ghost ,
 0	using the image of her daughter
 0	and is soon erotically enticing everyone in the castle
-0	and killing them off one by one . 
+0	and killing them off one by one . <s>
 
 6 0321483
 +	Ok , so i have a soft spot for low budget indie movies with typical 70 's effects . <s>
@@ -1507,7 +1507,7 @@
 0	looking for tons of gore and naked women ,
 -	this one 's not for you . <s>
 -	In fact , big scares are n't really present either ,
-+	but it did illicit a certain nostalgic feeling for me . 
++	but it did illicit a certain nostalgic feeling for me . <s>
 
 6 0322572
 0	First of all
@@ -1536,7 +1536,7 @@
 0	If you find
 0	movies like scream of i know
 +	what you did last summer frightening then
-+	you will have the fright of your life with a nightmare on elm street . 
++	you will have the fright of your life with a nightmare on elm street . <s>
 
 6 0324593
 -	I found the one and only comment about this movie entirely uninformative and altogether too harsh ,
@@ -1567,7 +1567,7 @@
 +	and pay proper attention to the mores and inflections of the time . <s>
 +	Overall , what 's not to like ? <s>
 0	Besides , name another film
-+	in which whitman is brought so vividly to life ? 
++	in which whitman is brought so vividly to life ? <s>
 
 6 0324976
 0	After watching this film ,
@@ -1595,7 +1595,7 @@
 0	But ... ... anyway ... ... <s>
 0	. <s>
 0	That 's
-+	why i gave this film a 7 out of 10 . 
++	why i gave this film a 7 out of 10 . <s>
 
 6 0326293
 0	I am confused as to why so many people seem to hate this movie . <s>
@@ -1633,7 +1633,7 @@
 +	it is hilarious ,
 0	which is the main thing
 +	most people are looking for .
-+	( 7/10 ) 
++	( 7/10 ) <s>
 
 6 0337518
 0	My initial thoughts of this film is
@@ -1671,7 +1671,7 @@
 0	But i think ,
 0	in a way ,
 +	that 's what i loved about the film , it 's emotion and drama . <s>
-+	All in all it was a great surprise and a really good film . 
++	All in all it was a great surprise and a really good film . <s>
 
 6 0340625
 +	' knocked-up ' was far better
@@ -1702,7 +1702,7 @@
 +	' knocked-up ' is an enjoyable film
 +	and i recommend
 +	that you make an effort
-+	to watch it . 
++	to watch it . <s>
 
 6 0342389
 0	I just saw this film tonight . <s>
@@ -1725,7 +1725,7 @@
 +	me feel whole -
 0	as it was supposed to . <s>
 +	The film was well - done , realistic , and fun . <s>
-+	I left feeling sad but full . 
++	I left feeling sad but full . <s>
 
 6 0347721
 0	While subdued and a little slow-moving ,
@@ -1752,7 +1752,7 @@
 -	without such interests , however , may find it pretty dull . <s>
 +	Even for the latter folks , i would also recommend shattered glass ( 2004 ) ,
 0	starring hayden christensen ,
-+	which has a similar conflict , a faster pace , and generally better acting . 
++	which has a similar conflict , a faster pace , and generally better acting . <s>
 
 7 0315402
 0	Janet gaynor is a country bumpkin
@@ -1778,7 +1778,7 @@
 0	indicates
 0	that perhaps two men were cast on different days as tone 's father , an uncredited role ,
 0	but only one actor is listed . <s>
-+	Anyway , it 's great fun . 
++	Anyway , it 's great fun . <s>
 
 7 0316059
 +	I love these old musicals
@@ -1801,7 +1801,7 @@
 +	being bedeviled by a mouse . <s>
 +	These musicals are time capsules of great talents , fashions , musical tastes , and movie techniques . <s>
 +	I 've seen this many times
-+	and i hope to see it many more . 
++	and i hope to see it many more . <s>
 
 7 0316705
 -	Jerry and the lion is not one of the better tom and jerry cartoons ,
@@ -1825,7 +1825,7 @@
 +	that his and jerry 's tearful goodbye was very touching . <s>
 0	Overall ,
 -	not outstanding
-+	but it is underrated and definitely worth the look . 8/10 bethany cox 
++	but it is underrated and definitely worth the look . 8/10 bethany cox <s>
 
 7 0317275
 +	Fiddlers three is a hysterical stooge short ,
@@ -1862,7 +1862,7 @@
 0	If you are a fan of the three stooges ,
 +	then you will probably like it ,
 +	i liked it ,
--	but it could have been so much better . 8/10 
+-	but it could have been so much better . 8/10 <s>
 
 7 0326639
 +	Midsomer murders is an excellent murder detective series . <s>
@@ -1882,7 +1882,7 @@
 +	but the show definitely does not get old . <s>
 0	For anyone
 +	who enjoys a good detective and crime show , this is definitely worth a try . <s>
-+	It is very enjoyable and exciting . 
++	It is very enjoyable and exciting . <s>
 
 7 0331620
 0	Everyone takes this movie so seriously . <s>
@@ -1908,7 +1908,7 @@
 0	when i was a kid . <s>
 +	Its worth watching even with subtitles . <s>
 0	After a while you can almost follow the story
-0	without them . 
+0	without them . <s>
 
 7 0333651
 0	I 'm sorry ...
@@ -1938,7 +1938,7 @@
 +	you should not miss . <s>
 0	If nothing else ,
 +	there is rie rasmussen
-+	to keep you interested . 
++	to keep you interested . <s>
 
 7 0340858
 0	If there is one word
@@ -1964,7 +1964,7 @@
 +	It is very enjoyable to watch and well worth
 0	the time spent . <s>
 +	This was very pleasant break from the consecutive violent movies
-0	i have seen recently . 
+0	i have seen recently . <s>
 
 7 0341732
 0	Quinn is in a pinch . <s>
@@ -1993,7 +1993,7 @@
 0	And ,
 0	if you like the freaky kids ,
 0	they will return later in the series . <s>
-+	Well written . 
++	Well written . <s>
 
 7 0344284
 +	Imtiaz ali did a very good job both in the concept and the direction . <s>
@@ -2016,7 +2016,7 @@
 +	who like family oriented movies with a touch of indian culture ,
 +	then this is for you . <s>
 +	It 's worth
-+	giving a try - sober yet entertaining . 
++	giving a try - sober yet entertaining . <s>
 
 7 0346904
 0	Dean and sam a saved on the road from a demon attack by a group of citizens from blue earth , a small town in minnesota . <s>
@@ -2035,7 +2035,7 @@
 0	chosen by dean in the next show . <s>
 +	My vote is eight . <s>
 0	Title ( brazil ) :
-0	" 99 " ( " 99 problems " ) 
+0	" 99 " ( " 99 problems " ) <s>
 
 8 0315945
 0	It seems like a lot of the really old movies i see ,
@@ -2060,7 +2060,7 @@
 -	was the strange relationship between the girl and the detective ...
 0	i thought
 -	that was awkward . <s>
--	She seems way too young for him . 9 out of 10 , kids . 
+-	She seems way too young for him . 9 out of 10 , kids . <s>
 
 8 0316030
 -	My only criticism of this film has to do with the musical score . <s>
@@ -2088,7 +2088,7 @@
 +	more of his films were available on dvd . <s>
 0	I 'm not usually a fan of melodramas
 +	but mr. skeffington has more humorous lines and scenes
-0	than the plot summary might indicate . 
+0	than the plot summary might indicate . <s>
 
 8 0319821
 0	Saw this movie
@@ -2125,7 +2125,7 @@
 0	having them watch things of culture
 0	and breeding early on . <s>
 0	Who knows ? <s>
-+	Maybe they 'll turn out " genteel " than a " thug " . 
++	Maybe they 'll turn out " genteel " than a " thug " . <s>
 
 8 0321074
 +	First - it 's a wonderful introduction to full scale fantasy , for anyone . <s>
@@ -2151,7 +2151,7 @@
 0	even in this animated version , one can tell
 +	why j.r.r. tolkien is celebrated as one of the finest writers of the 20th century . <s>
 +	These books provided the foundation of nearly all quality books and movies for the last 75 years
-+	and will continue to inspire writers and moviemakers for a long long time to come . 
++	and will continue to inspire writers and moviemakers for a long long time to come . <s>
 
 8 0324235
 +	Such a great movie ! <s>
@@ -2172,7 +2172,7 @@
 +	This is a wonderful film for any female
 0	who dreams of a ride on ,
 0	" my brother 's boat . <s>
-0	'' 
+0	'' <s>
 
 8 0338120
 0	I came into this movie
@@ -2193,7 +2193,7 @@
 0	and it may take a second viewing or more
 0	to find more of them . <s>
 +	Just everything about this movie had me loving it ,
-+	so i give it a perfect 10 . 
++	so i give it a perfect 10 . <s>
 
 8 0338685
 0	I saw this movie at the 2006 international film festival of rotterdam . <s>
@@ -2213,7 +2213,7 @@
 0	( 2000 ) by uk-based author ben rice . <s>
 0	Pobby and dingan are the names of the imaginary friends . <s>
 0	I just happened to run into this little 100 page book a week
-0	after seeing the movie . 
+0	after seeing the movie . <s>
 
 8 0340737
 -	Yes , this movie has a bit of " the omega man " and " the last man on earth " in it ,
@@ -2245,7 +2245,7 @@
 0	infected from 28 days later
 0	though they do share the pale traits of the omega ones . <s>
 +	All in all a good movie
--	that left me depressed . 
+-	that left me depressed . <s>
 
 8 0340798
 +	This is just a movie
@@ -2279,7 +2279,7 @@
 0	and cried
 +	this was also good . <s>
 +	You are good
-+	will smith rock on . 
++	will smith rock on . <s>
 
 8 0343797
 0	It happened only 30 years ago
@@ -2308,7 +2308,7 @@
 +	History yes
 0	but also poetry . <s>
 +	Hope as a theme . <s>
-+	A triumph ! 
++	A triumph ! <s>
 
 8 0345797
 +	I was pretty surprised by the quality of this film . <s>
@@ -2329,7 +2329,7 @@
 -	not the most stunning i 've ever heard ,
 +	but it holds my attention rather well . <s>
 +	So definitely check this film out ,
-+	because it 's worth it . 
++	because it 's worth it . <s>
 
 9 0318273
 0	" viridiana " and " tierra sin pan "
@@ -2358,7 +2358,7 @@
 0	Luckily , he went to mexico . <s>
 +	Well , this is a movie to talk about for hours and hours ...
 0	anyway , you just watch it
-+	and prepare to feel what cinema 's about . * my rate : 10/10 
++	and prepare to feel what cinema 's about . * my rate : 10/10 <s>
 
 9 0318408
 +	This complicated , cinematic triumph deserves best picture and best director award for hitch along with rebecca , psycho , and strangers on a train . <s>
@@ -2380,7 +2380,7 @@
 0	and stopping
 0	because the bridge was covered in birds ! <s>
 +	The birds and other special effects were overwhelming ! <s>
-+	Truly a masterpiece . 
++	Truly a masterpiece . <s>
 
 9 0321964
 0	Evil dead ( 1981 ) was one of the last midnight movies
@@ -2409,7 +2409,7 @@
 +	and amps up the black comedy . <s>
 +	An essential film . <s>
 +	Highly recommended . <s>
-+	A + 
++	A + <s>
 
 9 0326443
 +	Independence day is an epic movie with a great story and characters
@@ -2426,7 +2426,7 @@
 +	it grabs you for the opening scene
 +	and does n't let up . 17 years old
 +	and it keeps getting better and better . <s>
-+	Ca n't wait for the sequels in 3d !! 
++	Ca n't wait for the sequels in 3d !! <s>
 
 9 0334192
 +	Definitely my kind of movie . <s>
@@ -2445,7 +2445,7 @@
 0	being forced to spy for the government to rid him of his prison sentence . <s>
 0	He must infiltrate russian gang
 0	anarchy 99 ' . <s>
-+	My favourite movie ! 
++	My favourite movie ! <s>
 
 9 0334714
 0	Sex scenes are usually gratuitous . <s>
@@ -2463,7 +2463,7 @@
 -	that he had been forced to reject . <s>
 0	As his life was ending ,
 0	he had finally regained what he lost that day long ago ,
-0	when he rejected so much . 
+0	when he rejected so much . <s>
 
 9 0336215
 +	Saw this interesting film
@@ -2485,7 +2485,7 @@
 0	if this was the first time
 0	that mother and son had appeared together on your local newspaper for this
 +	you love the theater
-+	you will love " bigger than the sky " . 
++	you will love " bigger than the sky " . <s>
 
 9 0339775
 +	These guys really were on fire . <s>
@@ -2504,7 +2504,7 @@
 0	Queen were going through a transitional stage . <s>
 0	But they still showed cynics
 0	that they still knew
-0	how to rock . 
+0	how to rock . <s>
 
 9 0341439
 0	Many people think
@@ -2544,7 +2544,7 @@
 0	When peter plays a beautiful rendition
 0	despite being " just as i ( mr. zero ) found him " ) ,
 0	the judge and jury decide in his favor . <s>
-+	A terrific blend of comedy and serious drama ! 
++	A terrific blend of comedy and serious drama ! <s>
 
 9 0342609
 +	I loved this movie even more than reading the book ! <s>
@@ -2564,7 +2564,7 @@
 +	well done movie . <s>
 +	It seems more like a movie
 +	you would see at a theater rather than on tv . <s>
-+	Definitely worth watching . 
++	Definitely worth watching . <s>
 
 9 0347244
 +	For the first time , i actually cried
@@ -2588,5 +2588,5 @@
 0	Watch out for :
 0	naomi watts . <s>
 0	Can be watched with a typical indian family ? <s>
-+	Yes language : no | sex : no | nudity : very strong | violence : strong | gore : mild | foreplay : no | alcohol : no | smoking : no | drugs : no 
++	Yes language : no | sex : no | nudity : very strong | violence : strong | gore : mild | foreplay : no | alcohol : no | smoking : no | drugs : no <s>
 

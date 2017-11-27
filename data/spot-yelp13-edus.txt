@@ -22,7 +22,7 @@
 -	and takes the side of the company
 -	in doing so . <s>
 -	This company sucks ! <s>
--	Stay away from them !!! 
+-	Stay away from them !!! <s>
 
 0 0301552
 -	I would give zero stars
@@ -40,7 +40,7 @@
 -	The manager picked up the tab , i prefer to have a good meal and pay . <s>
 -	This was torture . <s>
 -	The staff is clueless . <s>
-0	Sam fox has jumped the shark . 
+0	Sam fox has jumped the shark . <s>
 
 0 0301662
 -	Filthy restaurant . <s>
@@ -60,7 +60,7 @@
 0	if the owner i spoke to has his staff better trained . <s>
 0	Time to lean , time
 0	to clean ...
--	there was plenty of time . 
+-	there was plenty of time . <s>
 
 0 0301921
 -	I really hate to do this ,
@@ -92,7 +92,7 @@
 -	We need a place with a more mature management staff ...
 0	so , we 're going with the montelucia . <s>
 +	Its a nice upscale resort , with an awesome spa , a very nice lounge & live music on saturday night , a great pool & nice rooms . <s>
-+	Truly perfect . 
++	Truly perfect . <s>
 
 0 0301958
 +	Well , we were craving chinese food , and i
@@ -114,7 +114,7 @@
 0	Go to mike kwan 's golden coin . <s>
 -	It 's a shit hole ,
 -	and you get no variety ,
-+	but the food is fresh and hot . 
++	but the food is fresh and hot . <s>
 
 0 0301962
 -	Disappointing . <s>
@@ -132,7 +132,7 @@
 -	The place was also unbearably hot inside . <s>
 0	I guess
 -	they 're saving on air-conditioning . <s>
--	Do n't plan on going back . 
+-	Do n't plan on going back . <s>
 
 0 0302223
 0	I visited
@@ -152,7 +152,7 @@
 -	There are certainly other seafood places with better quality service and food for less expensive , definitley not worth the $ $ $ . <s>
 +	Our table server was pleasant and professional , much more
 -	than i can say for the hostess . <s>
--	Do not waste your time or $ $ $ there . 
+-	Do not waste your time or $ $ $ there . <s>
 
 0 0302596
 -	Customer service hahaha ... what customer service . <s>
@@ -166,7 +166,7 @@
 -	Do you guys just hire anyone off the streets ??!! <s>
 -	Do not i repeat do not go to this company !!! <s>
 -	A fair warning has
--	been issued to all . 
+-	been issued to all . <s>
 
 0 0302781
 -	The chuckbox is severely overrated . <s>
@@ -191,7 +191,7 @@
 0	and welcome diner . <s>
 0	And
 -	when the kitchen applies the toppings for you ,
--	it results in a better melding of flavors with the rest of the burger . 
+-	it results in a better melding of flavors with the rest of the burger . <s>
 
 0 0303174
 0	Well ,
@@ -215,7 +215,7 @@
 -	I will def not be back . <s>
 0	Over
 0	priced too . <s>
--	I suggest u go anywhere else but here . 
+-	I suggest u go anywhere else but here . <s>
 
 0 0303599
 -	I am rating this restaurant with 1 star ,
@@ -242,7 +242,7 @@
 -	The bathrooms smelled horrible . <s>
 -	The service was mediocre . <s>
 -	All in all , a very disappointing experience . <s>
--	We will not be going back again . 
+-	We will not be going back again . <s>
 
 0 0303678
 -	This culver 's has the worse service of any fast food place
@@ -263,7 +263,7 @@
 -	Food would have to perfect to make up for the sorry service
 -	and it is not even close . <s>
 -	If you want to be laughed at for expecting even minimal service
--	this is the place for you . 
+-	this is the place for you . <s>
 
 0 0303696
 +	We walked into a nice atmosphere . <s>
@@ -283,7 +283,7 @@
 0	Maybe . <s>
 0	One thing is for sure . <s>
 -	We wo n't be going back ,
--	and we wo n't be referring any friends here . 
+-	and we wo n't be referring any friends here . <s>
 
 0 0303811
 0	I have
@@ -306,7 +306,7 @@
 0	I hope
 -	that steve is not an example
 -	of what whole foods corp management is made of . <s>
--	Very sad indeed 
+-	Very sad indeed <s>
 
 0 0303864
 0	We decided to head over to friends
@@ -327,7 +327,7 @@
 -	In my entire life i 've never
 -	been told i 'm not welcome because of the color of my skin . <s>
 -	Goodbye friends . <s>
--	So sad . 
+-	So sad . <s>
 
 0 0303910
 -	This is honestly the worst starbucks experience
@@ -356,7 +356,7 @@
 -	They really need to up their customer service
 -	and speed it up a bit . <s>
 +	It 's a prime location
--	if they can pull it together . 
+-	if they can pull it together . <s>
 
 0 0303946
 0	The positive reviews are way off the mark . <s>
@@ -399,7 +399,7 @@
 0	my rocker do yourself a favor and visit one of these : khai hoan ( the best ) , da
 0	vang ( really good ) ,
 0	and cyclo ( kind of over rated ,
--	but this place puts dragonfly to shame ) . 
+-	but this place puts dragonfly to shame ) . <s>
 
 0 0304004
 -	This michael 's sucks ! <s>
@@ -416,7 +416,7 @@
 -	J and i dropped all the items
 0	we had
 -	and left . <s>
--	We should have just made the drive to joann 's in scottsdale . 
+-	We should have just made the drive to joann 's in scottsdale . <s>
 
 0 0304092
 0	I went this location a few minutes ago on union hills drive . <s>
@@ -441,7 +441,7 @@
 0	I 'm glad
 0	i did not . <s>
 -	Be careful . <s>
--	I wo n't return to this location . 
+-	I wo n't return to this location . <s>
 
 0 0304345
 0	This is first time
@@ -466,7 +466,7 @@
 -	avoid them . <s>
 +	I found a good plumber
 +	after all and i believe
-+	you will . 
++	you will . <s>
 
 1 0304396
 0	I 've been here a couple of times now . <s>
@@ -511,7 +511,7 @@
 +	a bonus is
 +	that it is located right next to a nail salon
 +	so the ladies might enjoy doing something to their hair and then going next door
-+	to get a foot massage or pedicure or something . 
++	to get a foot massage or pedicure or something . <s>
 
 1 0304594
 -	This place is not that great . <s>
@@ -526,7 +526,7 @@
 0	because shogun was closed
 0	and there are n't any other rice bowl places in scottsdale
 0	that i know of . <s>
-0	Eh . 
+0	Eh . <s>
 
 1 0304636
 -	Expensive for the lack of amenities . <s>
@@ -536,7 +536,7 @@
 -	During the hot summer months we could have stayed at a nearby 5 star resort for less money . <s>
 -	Even motel 6 has free wifi ! <s>
 -	My opinion they should drop the regency from their name . <s>
--	There was no sign of regency here . 
+-	There was no sign of regency here . <s>
 
 1 0304868
 +	I still like to shop here
@@ -564,7 +564,7 @@
 -	We already burned over half an hour here
 -	trying to get anyone 's attention . <s>
 -	This store should be cautioned to pick up their game . <s>
-+	The big lots in at gilbert road and guadalupe ( in gilbert ) is much quicker and a better shopping experience . 
++	The big lots in at gilbert road and guadalupe ( in gilbert ) is much quicker and a better shopping experience . <s>
 
 1 0304873
 0	Let me start out
@@ -590,7 +590,7 @@
 -	the hours keep changing . <s>
 -	They are sometimes closed for the summer or not open certain days . <s>
 -	We wo n't be back mostly because there are so many other places
--	we can get an amazing dinner but for half the cost . 
+-	we can get an amazing dinner but for half the cost . <s>
 
 1 0304906
 +	So the food was okay
@@ -611,7 +611,7 @@
 0	Here it is ,
 -	that cheesecake is not a raspberry cheesecake . <s>
 -	It is a regular cheesecake with white chocolate shavings and raspberry sauce . <s>
--	That was not what i was expecting . 
+-	That was not what i was expecting . <s>
 
 1 0305054
 -	No free soda refills . <s>
@@ -630,7 +630,7 @@
 0	My husband said thai elephant 's curry better . <s>
 -	They do n't accept amex
 +	but they were friendly
-+	and do have the good mints though ... 
++	and do have the good mints though ... <s>
 
 1 0305141
 +	I felt like pizza
@@ -655,7 +655,7 @@
 -	I was disappointed
 -	that the crust was too doughy
 -	and may have ruined the extra cheese experience . <s>
--	Meh ... not rushing back . . 
+-	Meh ... not rushing back . . <s>
 
 1 0305190
 +	A fairly well realized monument to unabashed corporate card excess ,
@@ -680,7 +680,7 @@
 +	Paul fleming is a respected restauranteur ,
 +	and rightly so
 +	based on my visits to his other kitchens . <s>
--	But i am not that confused . 
+-	But i am not that confused . <s>
 
 1 0305714
 0	Groupon now brought us in at 7:38 . <s>
@@ -706,7 +706,7 @@
 0	for which it did n't have . <s>
 -	The bait and switch , alone , with higher in-store prices then their own website leaves a bad taste however
 -	and is enough for me not to go back . <s>
--	It 's just a cheap money grab . 
+-	It 's just a cheap money grab . <s>
 
 1 0305968
 -	I must 've gone on bizarro night . <s>
@@ -728,7 +728,7 @@
 -	Bottom line : definitely does n't live up to the hype . <s>
 -	Oh - and as for the wait ...
 -	it was about 90minutes ,
--	which was expected ( monday at 5:30 pm ) . 
+-	which was expected ( monday at 5:30 pm ) . <s>
 
 1 0306241
 0	I come here
@@ -746,7 +746,7 @@
 +	I like free wireless and i like ice tea . <s>
 -	They need more booths with outlets ,
 -	and they need to turn the ac down ! <s>
--	It 's freezing in there ! 
+-	It 's freezing in there ! <s>
 
 1 0306470
 -	Im reluctantly giving the vig uptown 2 stars
@@ -777,7 +777,7 @@
 -	Come to find out ...
 -	it was friends of the manager . <s>
 -	Suck it vig uptown ! <s>
--	You 'll never see me and many of my friends again . 
+-	You 'll never see me and many of my friends again . <s>
 
 1 0306481
 0	I decided to join yelp because of this place . <s>
@@ -801,7 +801,7 @@
 -	but i 'd rather take my money elsewhere . <s>
 -	They were apologetic
 +	and food was on the house
--	but we 're not coming back . 
+-	but we 're not coming back . <s>
 
 1 0306482
 0	This review is for the shot clinic
@@ -828,7 +828,7 @@
 0	the test took
 0	5 minutes )
 -	this shot clinic wasted my whole saturday . <s>
--	I was not happy . 
+-	I was not happy . <s>
 
 1 0306499
 0	I wanted to like this place , i really did . <s>
@@ -859,7 +859,7 @@
 0	I think
 +	this place has potential ,
 -	but i would call my investment in caffe boa a disaster . <s>
--	We wo n't be back . 
+-	We wo n't be back . <s>
 
 1 0306766
 -	We had a very disappointing experience today at over easy . <s>
@@ -881,7 +881,7 @@
 0	She said
 +	the hash browns were the best part of the plate ,
 0	giving them " three stars . <s>
--	" Overall , we will never come back to over easy again due to the service and bland , average food . 
+-	" Overall , we will never come back to over easy again due to the service and bland , average food . <s>
 
 1 0306769
 0	I will keep this one short . <s>
@@ -893,7 +893,7 @@
 0	The food was fine ... but nothing special . <s>
 0	Very plain . <s>
 -	Service : well not much in the way of service ... order and the window and get out of the way . <s>
-+	Not my favorite but worth the visit . 
++	Not my favorite but worth the visit . <s>
 
 1 0306842
 0	We decided
@@ -918,7 +918,7 @@
 0	they are working on something
 -	because it was not a good experience
 -	and sad we only have the twisted lizzard
-0	to eat at locally . 
+0	to eat at locally . <s>
 
 1 0307108
 +	Service here is always friendly ,
@@ -943,7 +943,7 @@
 +	as i enjoyed the meal
 +	while it was happening ,
 -	but this is a risk
--	i would n't take again . 
+-	i would n't take again . <s>
 
 2 0307825
 +	This is great
@@ -966,7 +966,7 @@
 -	Maybe the chef or the staff was having an off day . <s>
 +	The restaurant itself is bright and clean . <s>
 +	I will go back again
-+	when i feel like eating outside the box . 
++	when i feel like eating outside the box . <s>
 
 2 0307986
 +	This place has good food and huge portions . <s>
@@ -999,7 +999,7 @@
 +	my entire salad was $ 8.75 ...
 +	the service was fast and friendly . <s>
 +	She brought the food out correctly
-+	and had no problem splitting up those order totals for those with credit cards . 
++	and had no problem splitting up those order totals for those with credit cards . <s>
 
 2 0308632
 0	I have to agree with both pierre
@@ -1024,7 +1024,7 @@
 +	when you get it hot . <s>
 +	The wrap up burgers are good
 +	and the lettuce wedge rocks ,
--	skip the steaks ! 
+-	skip the steaks ! <s>
 
 2 0308746
 +	Pretty neat bar with cool atmosphere . <s>
@@ -1037,7 +1037,7 @@
 +	But the overall flavor was pretty good . <s>
 +	I 'll probably come back for happy hour specials . <s>
 +	The prices seem fair
-+	and i love live music . 
++	and i love live music . <s>
 
 2 0308813
 -	I had a total freak-out moment at bs . <s>
@@ -1071,7 +1071,7 @@
 -	They have this weird little make-out/vip room upstairs . <s>
 -	Just make sure to pee
 -	before you go . <s>
--	The bathroom situation is a nightmare . 
+-	The bathroom situation is a nightmare . <s>
 
 2 0309116
 +	This is a perfectly acceptable chinese restaurant . <s>
@@ -1088,7 +1088,7 @@
 0	to go instead of dine in . <s>
 0	I do n't think
 -	it was a great dine in experience ,
-+	but the food was reasonably priced and good . 
++	but the food was reasonably priced and good . <s>
 
 2 0309195
 0	Store bought cheddar cheese on a fish taco ? <s>
@@ -1105,7 +1105,7 @@
 +	the prices reasonable ,
 +	and the ambiance relaxed . <s>
 +	A nice place to include in the lunch mix ,
-+	given you work in the area . 
++	given you work in the area . <s>
 
 2 0309621
 0	My daughter was in the hospital and everyday all
@@ -1123,7 +1123,7 @@
 -	that it is a step above grocery store sushi . <s>
 -	The service was eh
 0	and the food was ok ...
--	but probably not somewhere i would go back to . 
+-	but probably not somewhere i would go back to . <s>
 
 2 0309844
 0	I would have given this place 3.5 stars , but not 4 . <s>
@@ -1143,7 +1143,7 @@
 0	Would only go here again
 0	if someone held my place in line
 -	and i could swoop in here at the last moment . <s>
--	Once again , hype outweighs reality . 
+-	Once again , hype outweighs reality . <s>
 
 2 0309870
 +	Bam ! <s>
@@ -1168,7 +1168,7 @@
 +	and bring your a game ! <s>
 -	I would n't say this would be a great pickup bar
 +	as some signs suggest ,
-+	but if you 're a gal pal then by all means . - enjoy ! 
++	but if you 're a gal pal then by all means . - enjoy ! <s>
 
 2 0310155
 0	I came in on an early friday morning
@@ -1192,7 +1192,7 @@
 +	The donuts were fresh tasting ,
 -	but the service was far beyond friendly . <s>
 -	To bad ,
--	you could have earned a new customer . 
+-	you could have earned a new customer . <s>
 
 2 0310388
 +	This place is alright . <s>
@@ -1208,7 +1208,7 @@
 0	And the other 2 reviews on here seem completely planted . <s>
 0	O_o be more convincing
 0	if you 're
-0	gon na do that . 
+0	gon na do that . <s>
 
 2 0310590
 +	Been to this denny 's multiple times . <s>
@@ -1228,7 +1228,7 @@
 -	Personally , i would n't have wanted
 -	him fired ,
 0	but i will say
--	i was quite annoyed with him that night . 
+-	i was quite annoyed with him that night . <s>
 
 2 0310723
 0	Went here for lunch today for the first time
@@ -1250,7 +1250,7 @@
 -	like nook just needs a little bit of fine-tuning
 +	but has great potential . <s>
 +	I would definitely be willing to give it another go ,
-+	mainly based on the excellent service . 
++	mainly based on the excellent service . <s>
 
 2 0310843
 0	This is one of those places
@@ -1269,7 +1269,7 @@
 -	Our server was a bit aloof . <s>
 -	She just did n't seem to be there
 -	and maybe was a little stressed out or overwhelmed . <s>
-+	Very sweet girl though . 
++	Very sweet girl though . <s>
 
 2 0310876
 +	I usually like amc , i do . <s>
@@ -1309,7 +1309,7 @@
 0	if we could just go see the 9:45 , and were let in . <s>
 -	For the outrageous prices for both tickets and food ( and the machine sure does n't help or give any student discounts ) ,
 -	i 'm really underwhelmed . <s>
--	We 'll probably look at another theatre . 
+-	We 'll probably look at another theatre . <s>
 
 2 0311039
 0	I had a very mixed experience at the stand . <s>
@@ -1330,7 +1330,7 @@
 +	because the food is good
 +	and i want to support a local business . <s>
 -	My only hesitation is the long wait . <s>
--	It is hard to wait that long in a drive - thru . 
+-	It is hard to wait that long in a drive - thru . <s>
 
 2 0311062
 0	Went for sunday brunch after morning rains
@@ -1355,7 +1355,7 @@
 -	he was supposed to memorize multiple times . <s>
 +	I 'd come back on a cool day
 0	to try hh out on the patio to people watch ,
--	but probably not for brunch . 
+-	but probably not for brunch . <s>
 
 2 0311358
 0	Came here last week with my $ 10 for $ 20 groupon . <s>
@@ -1380,7 +1380,7 @@
 -	Since nothing wow 'd me
 -	and it was a bit on the pricey side ,
 -	i probably would n't come back . <s>
-0	Sorry ladybug . 
+0	Sorry ladybug . <s>
 
 2 0312070
 0	Incredibly odd layout to this place . <s>
@@ -1394,7 +1394,7 @@
 0	One thing
 -	they should have left on manhattan
 -	is that nyc attitude . <s>
--	Because customer service matters in the rest of the world . 
+-	Because customer service matters in the rest of the world . <s>
 
 3 0312896
 +	Love this neighborhood spot . <s>
@@ -1411,7 +1411,7 @@
 +	Yum ! <s>
 -	Do n't expect anything fancy in terms of ambiance ,
 0	it 's a hipster hang out ,
-+	very eclectic . 
++	very eclectic . <s>
 
 3 0313545
 0	I was introduced to five guys burgers during one of my many trips up to chandler blvd. . <s>
@@ -1449,7 +1449,7 @@
 -	and it seems
 -	like i should be after spending 20 bucks for lunch . <s>
 +	Definitely worth checking out
-0	though if you 're a burger/fries fan . 
+0	though if you 're a burger/fries fan . <s>
 
 3 0314362
 0	I 'm torn on 4 or 3 stars . <s>
@@ -1464,7 +1464,7 @@
 0	I had the seafood guac . <s>
 +	Wow was it good . $ 15 but the quality and taste made it worth every penny . <s>
 0	I probably would have given it 3 stars
-0	if it wasnt owned by santana i admit i like music and i like live music places . 
+0	if it wasnt owned by santana i admit i like music and i like live music places . <s>
 
 3 0314505
 +	Great place for going to the movies . <s>
@@ -1479,7 +1479,7 @@
 +	They never freak
 +	when i bring a drink from another place 7 . <s>
 +	My friends can find the place easily 8 . <s>
-+	Rarely packed out even for brand new releases 
++	Rarely packed out even for brand new releases <s>
 
 3 0314548
 0	I would probably give this place 3.5 stars . <s>
@@ -1502,7 +1502,7 @@
 0	or try to get comfortable . <s>
 0	I will continue to go here though for this type of experience ,
 +	as the prices are so reasonable . <s>
-+	It 's also very clean ! 
++	It 's also very clean ! <s>
 
 3 0315233
 +	Yum !! <s>
@@ -1513,7 +1513,7 @@
 +	The extensive bruschetta menu was novel & very good . <s>
 +	Also surprisingly filling . <s>
 +	I would also highly recommend the cheese board ! <s>
-+	Nothing was left unfinished on ours ! 
++	Nothing was left unfinished on ours ! <s>
 
 3 0315624
 +	Coup des tartes is a particularly romantic place ,
@@ -1533,7 +1533,7 @@
 0	It did n't work out ,
 0	so we are d-i-v-o-r-c-e-d . <s>
 0	At the ripe young age of 24 , too ! <s>
-0	My grandkids are going to have a field day with me . 
+0	My grandkids are going to have a field day with me . <s>
 
 3 0315821
 0	This particular location is n't as busy as the location in tempe . <s>
@@ -1549,7 +1549,7 @@
 +	Bagels are fresh in the morning ,
 0	but i would not recommend purchasing after 11am . <s>
 +	The cream cheese is awesome ,
-0	which we brought home tonight . 
+0	which we brought home tonight . <s>
 
 3 0315893
 0	I 'm not a huge greek fan ,
@@ -1577,7 +1577,7 @@
 0	than it should be . <s>
 0	But those are very small problems . <s>
 +	I would come back again
-+	when i 'm in the area . 
++	when i 'm in the area . <s>
 
 3 0317355
 0	Went late ,
@@ -1600,7 +1600,7 @@
 +	Really good wedge salad too ,
 +	i likes me some good wedge salad . <s>
 +	I would definitely go back
-+	to get our claim jumper on . 
++	to get our claim jumper on . <s>
 
 3 0318240
 +	I really really really like the personality of this " newly "
@@ -1637,7 +1637,7 @@
 -	It was a huge desert , but rather cakey , and more like a berry shortcake than a cobbler . <s>
 +	Overall , a nice little place with a great atmosphere . <s>
 +	Excellent service and staff . <s>
-+	Many seafood options for non-meat eaters . 
++	Many seafood options for non-meat eaters . <s>
 
 3 0318569
 +	Coffee tastes great . <s>
@@ -1666,7 +1666,7 @@
 0	that they do n't add tax . <s>
 +	I recommend this place ,
 0	but make sure
-0	they take your order correctly . 
+0	they take your order correctly . <s>
 
 3 0318602
 0	Searsucker is nestled into the corner next to neiman marcus at scottsdale fashion square . <s>
@@ -1690,7 +1690,7 @@
 -	although unfortunately for those of us
 -	who do n't eat meat , many of the seafood and even green dishes include meat . <s>
 -	So although i might not find too many items for dinner ,
-+	i may be back to have a crafted cocktail in the lounge . 
++	i may be back to have a crafted cocktail in the lounge . <s>
 
 3 0318701
 0	My friend and i had gone to az this past weekend for spring training
@@ -1728,7 +1728,7 @@
 +	ordered that instead . <s>
 0	Our bill came out to $ 17something in the end for 2 entrees and 1 soda
 +	so that was also pretty awesome . <s>
-+	Thus why it deserves the 4 stars . 
++	Thus why it deserves the 4 stars . <s>
 
 3 0318862
 -	This location is in a scary neighborhood . <s>
@@ -1744,7 +1744,7 @@
 0	which she did . <s>
 +	Fries were good . <s>
 +	I likely will return to this location ,
--	but maybe not at night . 
+-	but maybe not at night . <s>
 
 3 0318883
 +	This gb is one of our favorite places
@@ -1765,7 +1765,7 @@
 +	plenty of tv 's . <s>
 0	I frequent the mill ave. location ,
 0	because i work in the area
-+	and it does not compare to the san tan gb . 
++	and it does not compare to the san tan gb . <s>
 
 3 0319571
 +	Decided to check this spot out with a group of friends on saturday and what a cool little bar ! <s>
@@ -1784,7 +1784,7 @@
 0	and not worry about the outside world for a bit . <s>
 +	All in all , cool little bar
 0	that i 'm sure
-0	i 'll make my way back to when i 'm in the area . 
+0	i 'll make my way back to when i 'm in the area . <s>
 
 3 0320098
 -	Although i prefer the beer at another local brewery ,
@@ -1811,7 +1811,7 @@
 +	But the food was worth the wait . <s>
 +	There was live music
 +	when were were there for dinner on a sunday . <s>
-+	The guy was pretty talented . 
++	The guy was pretty talented . <s>
 
 3 0320885
 0	I 've
@@ -1838,7 +1838,7 @@
 +	and it was big enough
 +	to end up
 +	being my dinner . <s>
-+	I 'm excited to try their acai bowls next ! 
++	I 'm excited to try their acai bowls next ! <s>
 
 3 0322311
 +	This is a great little family run italian restaurant in a strip mall . <s>
@@ -1868,7 +1868,7 @@
 0	As for pasta dishes ,
 0	we usually just tell the waiter
 +	what we are in the mood for and they recommend something . <s>
-+	We 've never been disappointed . 
++	We 've never been disappointed . <s>
 
 4 0323538
 +	Wow ! <s>
@@ -1886,7 +1886,7 @@
 0	We actually had a groupon ,
 +	but we will go back for sure ,
 +	because even at full price , it 's worth every penny . <s>
-+	Service and wine was impeccable too . 
++	Service and wine was impeccable too . <s>
 
 4 0323635
 +	This is nothing short of amazing . <s>
@@ -1907,7 +1907,7 @@
 +	and i went at my own pace . <s>
 0	There is nothing
 +	that stretches as this does . <s>
-+	I love it !! 
++	I love it !! <s>
 
 4 0323746
 0	I can not believe
@@ -1923,7 +1923,7 @@
 +	There 's even a walk in wine section , sit down wine area . <s>
 +	This is now my grocery store . <s>
 +	Love
-+	that i 'm just a 5 min drive ! 
++	that i 'm just a 5 min drive ! <s>
 
 4 0323961
 0	I live in the neighborhood
@@ -1942,7 +1942,7 @@
 +	beef sliders are divine ! <s>
 0	Follow them on twitter
 +	as they tweet specials almost every day . <s>
-+	Ca n't wait to see more people discover this little gem . 
++	Ca n't wait to see more people discover this little gem . <s>
 
 4 0326012
 +	Try chicken noodles ,
@@ -1959,7 +1959,7 @@
 0	My asian colleagues
 +	who travel for short visits at least go here once
 +	and love it every time . <s>
-+	Need i say more , officially addicted to swadee ! 
++	Need i say more , officially addicted to swadee ! <s>
 
 4 0326467
 0	Finally tried this place with friends from out of town . <s>
@@ -1985,7 +1985,7 @@
 0	like she was at a virginia beach house . <s>
 +	They passed
 +	the water glass test too-always a bonus . <s>
-+	Great place !!! 
++	Great place !!! <s>
 
 4 0326685
 0	We have eaten here many times
@@ -2008,7 +2008,7 @@
 +	This is a great place
 +	if you want to have a conversation with someone ,
 +	it 's quiet . <s>
-+	Note : stellar report from the health department ( does anything else matter ??? ) 
++	Note : stellar report from the health department ( does anything else matter ??? ) <s>
 
 4 0327711
 0	I ca n't believe i
@@ -2026,7 +2026,7 @@
 -	We live 1,200 miles away now ,
 -	and we are so sorry to hear the awful news . <s>
 +	We will miss this place no doubt for many reasons . <s>
-+	Thank you , hollywood alley , for the amazing memories . . 
++	Thank you , hollywood alley , for the amazing memories . . <s>
 
 4 0328181
 0	" we can pay the farmer now or the doctor later . <s>
@@ -2056,7 +2056,7 @@
 0	than you realize from time to time . <s>
 +	Awww yes ! <s>
 +	This is a fantastic place
-+	even if you are a meat lover . 
++	even if you are a meat lover . <s>
 
 4 0328489
 +	Dennita scores again with her latest costume institute function !!! <s>
@@ -2072,7 +2072,7 @@
 +	This one was entirely affordable at $ 20 ,
 +	offering a pre-party with yummy food and a 2 hour film . <s>
 +	Cash bar was reasonably
-+	priced as well . 
++	priced as well . <s>
 
 4 0329803
 +	Great vibe ! <s>
@@ -2088,7 +2088,7 @@
 +	but the meals were great ! <s>
 +	I had grilled chicken and veggies on skewers
 +	-- amazing flavor ! <s>
-+	I will definitely be back . + + great beer selection as well . 
++	I will definitely be back . + + great beer selection as well . <s>
 
 4 0330088
 +	After almost 2 months of visiting this place , i am still fantasizing about their food ! <s>
@@ -2131,7 +2131,7 @@
 +	I was soooo full afterwards
 +	and i left with a smile on my face and a new favorite restaurant
 +	that i 'll have to stop at whenever i 'm in phoenix ,
--	which is n't very often , sadly . 
+-	which is n't very often , sadly . <s>
 
 4 0331597
 +	Yum yum yum . <s>
@@ -2155,7 +2155,7 @@
 +	been back with friends
 +	and it has been enjoyable for both a date night
 +	and chatting it up with people . <s>
-+	Enjoy ! 
++	Enjoy ! <s>
 
 4 0332133
 0	I have lived in the valley since 1999
@@ -2189,7 +2189,7 @@
 +	Main street billiards has been a road stop for several world class players ,
 0	and held
 +	several exhibition matches . <s>
-+	For almost two decades we have been the action spot in the east valley . 
++	For almost two decades we have been the action spot in the east valley . <s>
 
 4 0332407
 +	A must-stop
@@ -2211,7 +2211,7 @@
 +	And the service
 +	we got was really good . <s>
 +	Def coming back
-+	when i get another chance . 
++	when i get another chance . <s>
 
 4 0333127
 0	I was born and raised in new orleans . <s>
@@ -2231,7 +2231,7 @@
 0	You can only compare it to actually authentic cajun restaurants in south louisiana . <s>
 +	The restaurant has come such a long way with expansions in the dining room , kitchen and menu offerings . <s>
 +	This louisiana boy is so happy
-+	that ms. jennifer chose to share her talents with the world . 
++	that ms. jennifer chose to share her talents with the world . <s>
 
 4 0333567
 0	An eatery
@@ -2246,7 +2246,7 @@
 +	The freshly baked rolls were right from the oven
 +	and put those from the corporate chain restruants to shame . <s>
 +	Pricing was definitely reasonable . <s>
-+	Will definitely be dining here again . 
++	Will definitely be dining here again . <s>
 
 4 0333968
 +	Just like it 's other location , this place is great . <s>
@@ -2262,7 +2262,7 @@
 +	Perfectly thin crust with delicious toppings . <s>
 +	My mouth is drooling
 0	thinking about it . <s>
-+	Next time in the valley , i will be back to try some of their other offerings . 
++	Next time in the valley , i will be back to try some of their other offerings . <s>
 
 4 0334229
 +	This might be my new favorite night spot . <s>
@@ -2279,7 +2279,7 @@
 +	Each time seems to be better than the last . <s>
 +	I am happy to add mabel 's to my local watering holes . <s>
 0	Hopefully they do n't try to change . <s>
-0	Old town does n't need another carbon copy bar . 
+0	Old town does n't need another carbon copy bar . <s>
 
 4 0334988
 +	I am so addicted to india oven
@@ -2306,5 +2306,5 @@
 +	that are also amazing . <s>
 +	Lots of variety , always hot , and wonderful flavor . <s>
 0	Closed on mondays ,
-+	but otherwise , go give them a visit . 
++	but otherwise , go give them a visit . <s>
 
