@@ -9,16 +9,21 @@ have been gathered on 2 levels of granulatiry:
 RST parser [3]
 
 This dataset is intended to aid sentiment analysis research and, in particular, the evaluation 
-of methods that attempt to 
+of methods that attempt to predict sentiment on a finer-grained, segment-level basis.
 
-Statistics and details about the dataset's creation can be found our TACL paper:
+Statistics and details about the dataset's creation can be found in our TACL paper:
 
-Stefanos Angelidis, Mirella Lapata. 2017.
-**Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,
-_To appear in Transactions of the Association for Computational Linguistics (TACL)_ <br/>
-[ insert arXiv url here ]
+> Stefanos Angelidis, Mirella Lapata. 2017. **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,<br/>
+> _To appear in Transactions of the Association for Computational Linguistics (TACL)_ <br/>
+> [link to paper](http://homepages.inf.ed.ac.uk/s1258635/milnet-sentiment.pdf)
 
-If you use this data in your research, please cite the above paper.
+If you use this data in your research, please cite the above.
+
+The models proposed in the paper are trained using document-level supervision only, on the 
+original Yelp'13 and IMDB collections. Preprocessed versions of the 2 datasets, including both 
+sentence- and EDU-split variants, are available [here](#).
+
+For questions or comments, please email `s.angelidis [at] ed.ac.uk`
 
 ## Details
 
@@ -29,13 +34,13 @@ policy (sentences/EDUs) used, resulting in the following 4 files:
  - `spot-imdb-sent.txt`
  - `spot-imdb-edus.txt`
 
-Each file lists all documents and their annotations using the following format:
+Each file lists documents and their fine-grained annotations using the following format:
 
-1. Each document begins with a line containing its document-level sentiment label (0 to 5 for 
+1. A document begins with a line containing its document-level sentiment label (0 to 5 for 
 Yelp'13, 0 to 9 for IMDB), followed by exactly 1 space character, and a document id, unique for 
 the particular collection.
 2. The individually annotated segments are listed after that, one segment per line. Each line
-begins with a single character that indicated the segment-level sentiment label (+/0/-), 
+begins with a single character that indicates the segment-level sentiment label (+/0/-), 
 followed by a single <tab>, and the segment itself.
 3. After all the segments are listed, a single empty line marks the end of the document.
 
