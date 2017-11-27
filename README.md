@@ -13,7 +13,8 @@ of methods that attempt to predict sentiment on a finer-grained, segment-level b
 
 Statistics and details about the dataset's creation can be found in our TACL paper:
 
-> Stefanos Angelidis, Mirella Lapata. 2017. **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,<br/>
+> **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,<br/>
+> Stefanos Angelidis, Mirella Lapata. 2017. 
 > _To appear in Transactions of the Association for Computational Linguistics (TACL)_ <br/>
 > [link to paper](http://homepages.inf.ed.ac.uk/s1258635/milnet-sentiment.pdf)
 
