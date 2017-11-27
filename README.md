@@ -38,7 +38,7 @@ policy (sentences / EDUs) used, resulting in the following 4 files:
 
 Each file lists documents and their fine-grained annotations using the following format:
 
-1. A document begins with a line containing its document-level sentiment label (0 to 5 for 
+1. A document begins with a line containing its document-level sentiment label (0 to 4 for 
 Yelp'13, 0 to 9 for IMDB), followed by exactly 1 space character, and a document id, unique for 
 the particular collection.
 2. The individually annotated segments are listed after that, one segment per line. Each line
