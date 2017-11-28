@@ -16,7 +16,7 @@ Statistics and details about the dataset's creation can be found in our paper:
 > **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,<br/>
 > Stefanos Angelidis, Mirella Lapata. 2017. <br/>
 > _To appear in Transactions of the Association for Computational Linguistics (TACL)_.<br/>
-> [ [pdf](http://homepages.inf.ed.ac.uk/s1258635/milnet-sentiment.pdf) ]
+> [ [arXiv](https://arxiv.org/abs/1711.09645) ]
 
 The models proposed in the paper are trained using _document-level supervision only_, on the 
 **original** Yelp'13 and IMDB collections. Preprocessed versions of the 2 original datasets, 
